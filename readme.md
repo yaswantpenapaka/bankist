@@ -107,13 +107,5 @@ int main()
 - Sort your movements and delete your account system.
 - All input validations are done .
 - No memory leakage in run-time all dynamic memory is deallocated.
-
-
-
-
-
-You can also follow my GitHub Profile to stay updated:
-<a href="https://github.com/muhib7353" target="blank">
-@muhib7353
 </a>
 
