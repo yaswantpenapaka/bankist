@@ -166,10 +166,3 @@ You can also follow my GitHub Profile to stay updated:
 @muhib7353
 </a>
 
-
-## 📝 License
-
-Copyright © 2022 [Muhib Arshad](https://github.com/muhib7353). 
-
-
-This project is [MIT](https://github.com/muhib7353/Salik-Bank-Limited/blob/main/LICENSE) licensed.
